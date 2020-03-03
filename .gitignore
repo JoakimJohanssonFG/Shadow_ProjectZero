@@ -1,12 +1,7 @@
 
-Intermediate/CachedAssetRegistry.bin
-Saved/Logs/Shadow_ProjectZero.log
-Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Saved/Config/CrashReportClient/UE4CC-Windows-B84D2D3D4FE49B176A648497DC47D01B/CrashReportClient.ini
-Saved/Logs/Shadow_ProjectZero-backup-2020.03.03-09.18.36.log
-Saved/Logs/Shadow_ProjectZero-backup-2020.03.02-08.05.47.log
-
-Saved/*
-Intermediate/*
-Plugins/*/Intermediate/*
-DerivedDataCache/*
+Shadow_ProjectZero/Intermediate/CachedAssetRegistry.bin
+Shadow_ProjectZero/Saved/Logs/Shadow_ProjectZero.log
+Shadow_ProjectZero/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Shadow_ProjectZero/Saved/Config/CrashReportClient/UE4CC-Windows-B84D2D3D4FE49B176A648497DC47D01B/CrashReportClient.ini
+Shadow_ProjectZero/Saved/Logs/Shadow_ProjectZero-backup-2020.03.03-09.18.36.log
+Shadow_ProjectZero/Saved/Logs/Shadow_ProjectZero-backup-2020.03.02-08.05.47.log
