@@ -1211,3 +1211,1438 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.03-13.56.49:359][152]LogAudioMixer: Display: No commands were queued while flushing the source manager.
 [2020.03.03-13.56.49:364][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
 [2020.03.03-13.56.49:377][153]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.03-13.59.33:507][910]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-13.59.33:521][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-13.59.33:521][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-13.59.33:521][910]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 15:59:33)
+[2020.03.03-13.59.33:521][910]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-13.59.33:532][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010429s)
+[2020.03.03-13.59.33:532][910]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-13.59.33:532][910]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2020.03.03-13.59.33:532][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011849s)
+[2020.03.03-13.59.33:555][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.03.03-13.59.33:557][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-13.59.33:557][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-13.59.33:557][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-13.59.33:557][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-13.59.33:557][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-13.59.33:557][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-13.59.33:557][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-13.59.33:557][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-13.59.33:557][910]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-13.59.33:557][910]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-13.59.33:564][910]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-13.59.33:564][910]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-13.59.33:564][910]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-13.59.33:564][910]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-13.59.33:564][910]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-13.59.33:564][910]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-13.59.33:564][910]LogAudioMixer: Display: Channel Order:
+[2020.03.03-13.59.33:564][910]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-13.59.33:564][910]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-13.59.33:575][910]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-13.59.33:576][910]LogInit: FAudioDevice initialized.
+[2020.03.03-13.59.33:627][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-13.59.33:627][910]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-13.59.33:630][910]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-14.59.33
+[2020.03.03-13.59.33:632][910]LogWorld: Bringing up level for play took: 0.002950
+[2020.03.03-13.59.33:632][910]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.03.03-13.59.33:634][910]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel -0,432
+[2020.03.03-13.59.33:634][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-13.59.37:143][326]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-13.59.38:152][447]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-13.59.38:985][547]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-13.59.40:352][711]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-13.59.41:135][805]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-13.59.43:594][100]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-13.59.43:602][100]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-13.59.43:623][100]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-13.59.43:623][100]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-13.59.43:624][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-13.59.43:624][100]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-13.59.43:648][100]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-13.59.43:652][100]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-13.59.43:652][100]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-13.59.43:653][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-13.59.43:657][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-13.59.43:658][100]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-13.59.43:660][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-13.59.43:682][100]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-13.59.43:687][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.03.03-13.59.43:700][101]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.03-13.59.57:104][493]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.03-14.00.06:615][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.03-14.00.06:626][621]LogSavePackage: Moving '../../../../../../Users/Joakim.Johansson/Documents/Unreal Projects/Shadow_ProjectZero/Saved/BP_Wreckingball74856C9D4CC78A3F4DB5C4AB192A70F0.tmp' to '../../../../../../Users/Joakim.Johansson/Documents/Unreal Projects/Shadow_ProjectZero/Content/PuzzleComponents/BP_Wreckingball.uasset'
+[2020.03.03-14.00.06:628][621]LogMetaData: Removing '/Game/PuzzleComponents/BP_Wreckingball.BP_Wreckingball:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PuzzleComponents/Wreckingball.PackageMetaData'
+[2020.03.03-14.00.06:628][621]LogMetaData: Removing '/Game/PuzzleComponents/BP_Wreckingball.SKEL_BP_Wreckingball_C' ref from Metadata '/Game/PuzzleComponents/Wreckingball.PackageMetaData'
+[2020.03.03-14.00.06:628][621]LogMetaData: Removing '/Game/PuzzleComponents/BP_Wreckingball.BP_Wreckingball_C' ref from Metadata '/Game/PuzzleComponents/Wreckingball.PackageMetaData'
+[2020.03.03-14.00.06:628][621]LogMetaData: Removing '/Game/PuzzleComponents/BP_Wreckingball.BP_Wreckingball:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PuzzleComponents/Wreckingball.PackageMetaData'
+[2020.03.03-14.00.06:628][621]LogMetaData: Removing '/Game/PuzzleComponents/BP_Wreckingball.BP_Wreckingball:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PuzzleComponents/Wreckingball.PackageMetaData'
+[2020.03.03-14.00.06:628][621]LogMetaData: Removing '/Game/PuzzleComponents/BP_Wreckingball.BP_Wreckingball:EventGraph.K2Node_Event_2' ref from Metadata '/Game/PuzzleComponents/Wreckingball.PackageMetaData'
+[2020.03.03-14.00.06:677][621]LogSavePackage: Moving '../../../../../../Users/Joakim.Johansson/Documents/Unreal Projects/Shadow_ProjectZero/Saved/BP_Wreckingball28479C6E4078671655DF59B12AB16966.tmp' to '../../../../../../Users/Joakim.Johansson/Documents/Unreal Projects/Shadow_ProjectZero/Content/PuzzleComponents/BP_Wreckingball.uasset'
+[2020.03.03-14.00.06:795][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.03.03-14.00.06:823][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.03.03-14.00.06:846][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.03-14.00.06:891][621]AssetCheck: New page: Asset Save: BP_Wreckingball
+[2020.03.03-14.00.06:891][621]LogContentValidation: Display: Validating Blueprint /Game/PuzzleComponents/BP_Wreckingball.BP_Wreckingball
+[2020.03.03-14.00.08:298][786]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PuzzleComponents/BP_Wreckingball.BP_Wreckingball
+[2020.03.03-14.00.08:541][786]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.03.03-14.00.11:354][ 21]LogSlate: Took 0.003821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.03-14.01.08:191][627]LogSlate: Window 'BP_Wreckingball' being destroyed
+[2020.03.03-14.01.10:617][916]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.01.10:634][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.01.10:634][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.01.10:634][916]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:01:10)
+[2020.03.03-14.01.10:634][916]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.01.10:645][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010596s)
+[2020.03.03-14.01.10:646][916]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.01.10:646][916]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2020.03.03-14.01.10:646][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011684s)
+[2020.03.03-14.01.10:679][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.03.03-14.01.10:680][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.01.10:680][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.01.10:680][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.01.10:680][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.01.10:680][916]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.01.10:680][916]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.01.10:680][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.01.10:680][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.01.10:680][916]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.01.10:680][916]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.01.10:687][916]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.01.10:687][916]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.01.10:687][916]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.01.10:687][916]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.01.10:687][916]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.01.10:687][916]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.01.10:687][916]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.01.10:687][916]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.01.10:687][916]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.01.10:697][916]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.01.10:699][916]LogInit: FAudioDevice initialized.
+[2020.03.03-14.01.10:754][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.01.10:755][916]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.01.10:764][916]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.01.10
+[2020.03.03-14.01.10:766][916]LogWorld: Bringing up level for play took: 0.007952
+[2020.03.03-14.01.10:766][916]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.03.03-14.01.10:772][916]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 0,706
+[2020.03.03-14.01.10:773][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.01.13:933][290]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.01.15:025][421]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.01.15:108][431]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.01.16:459][593]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.01.16:482][593]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.01.16:503][593]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.01.16:503][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.01.16:504][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.01.16:504][593]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.01.16:541][593]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.01.16:546][593]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.01.16:547][593]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.01.16:547][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.01.16:551][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.01.16:551][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.01.16:555][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.01.16:582][593]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.01.16:588][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.03.03-14.01.16:604][594]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.03.03-14.01.17:358][676]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.01.17:375][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.01.17:375][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.01.17:375][676]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:01:17)
+[2020.03.03-14.01.17:375][676]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.01.17:386][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010877s)
+[2020.03.03-14.01.17:387][676]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.01.17:387][676]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2020.03.03-14.01.17:387][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.012043s)
+[2020.03.03-14.01.17:418][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.03-14.01.17:419][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.01.17:419][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.01.17:419][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.01.17:419][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.01.17:419][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.01.17:419][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.01.17:419][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.01.17:419][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.01.17:419][676]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.01.17:419][676]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.01.17:425][676]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.01.17:425][676]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.01.17:425][676]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.01.17:425][676]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.01.17:425][676]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.01.17:425][676]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.01.17:425][676]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.01.17:425][676]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.01.17:425][676]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.01.17:436][676]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.01.17:437][676]LogInit: FAudioDevice initialized.
+[2020.03.03-14.01.17:485][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.01.17:486][676]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.01.17:488][676]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.01.17
+[2020.03.03-14.01.17:489][676]LogWorld: Bringing up level for play took: 0.002727
+[2020.03.03-14.01.17:489][676]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.03.03-14.01.17:493][676]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel -0,573
+[2020.03.03-14.01.17:493][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.01.22:946][325]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.01.24:321][490]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.01.24:321][490]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.01.25:513][633]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.01.31:703][373]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.01.32:011][410]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.01.32:670][489]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.01.52:145][826]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.01.52:145][826]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.01.52:145][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.01.52:145][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.01.52:145][826]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.01.52:159][826]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.01.52:164][826]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.01.52:164][826]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.01.52:164][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.01.52:168][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.01.52:168][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.01.52:173][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.01.52:201][826]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.01.52:207][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.03-14.01.52:247][829]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.03-14.02.10:492][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.03.03-14.02.18:652][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.03.03-14.03.06:884][697]LogActorFactory: Actor Factory created Cube
+[2020.03.03-14.03.07:786][804]LogActorFactory: Actor Factory created Cube
+[2020.03.03-14.03.39:114][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2020.03.03-14.03.40:342][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2020.03.03-14.03.40:739][715]Cmd: DELETE
+[2020.03.03-14.03.40:739][715]Cmd: ACTOR DELETE
+[2020.03.03-14.03.40:741][715]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-14.03.40:770][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.03.03-14.03.40:771][715]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.03-14.03.41:124][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2020.03.03-14.03.46:440][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.03-14.03.46:976][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.03-14.03.47:378][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2020.03.03-14.03.56:868][615]Cmd: EDIT COPY
+[2020.03.03-14.03.57:146][648]Cmd: EDIT PASTE
+[2020.03.03-14.04.43:578][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.03.03-14.04.59:150][974]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.04.59:168][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.04.59:168][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.04.59:168][974]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:04:59)
+[2020.03.03-14.04.59:168][974]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.04.59:178][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010304s)
+[2020.03.03-14.04.59:179][974]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.04.59:179][974]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2020.03.03-14.04.59:179][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011420s)
+[2020.03.03-14.04.59:210][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.03.03-14.04.59:212][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.04.59:212][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.04.59:212][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.04.59:212][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.04.59:212][974]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.04.59:212][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.04.59:212][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.04.59:212][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.04.59:212][974]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.04.59:212][974]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.04.59:218][974]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.04.59:218][974]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.04.59:218][974]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.04.59:218][974]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.04.59:218][974]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.04.59:218][974]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.04.59:218][974]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.04.59:218][974]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.04.59:218][974]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.04.59:230][974]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.04.59:231][974]LogInit: FAudioDevice initialized.
+[2020.03.03-14.04.59:278][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.04.59:279][974]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.04.59:287][974]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.04.59
+[2020.03.03-14.04.59:290][974]LogWorld: Bringing up level for play took: 0.008498
+[2020.03.03-14.04.59:290][974]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.03.03-14.04.59:296][974]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel -0,76
+[2020.03.03-14.04.59:297][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.05.05:577][720]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.05.13:826][710]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.05.16:577][ 40]LogBlueprintUserMessages: [BP_SecondaryLightToggle_2] BP_SecondaryLightToggle
+[2020.03.03-14.05.17:252][121]LogBlueprintUserMessages: [BP_SecondaryLightToggle_2] BP_SecondaryLightToggle
+[2020.03.03-14.05.20:336][491]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.05.20:336][491]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.05.20:336][491]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.05.20:336][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.05.20:336][491]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.05.20:350][491]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.05.20:354][491]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.05.20:354][491]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.05.20:355][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.05.20:363][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.05.20:363][491]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.05.20:367][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.05.20:395][491]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.05.20:401][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.03.03-14.05.20:435][493]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.03.03-14.06.20:720][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2020.03.03-14.06.42:283][215]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.06.42:301][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.06.42:301][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.06.42:301][215]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:06:42)
+[2020.03.03-14.06.42:301][215]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.06.42:313][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011538s)
+[2020.03.03-14.06.42:313][215]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.06.42:314][215]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2020.03.03-14.06.42:314][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.012532s)
+[2020.03.03-14.06.42:345][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.03.03-14.06.42:347][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.06.42:347][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.06.42:347][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.06.42:347][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.06.42:347][215]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.06.42:347][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.06.42:347][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.06.42:347][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.06.42:347][215]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.06.42:347][215]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.06.42:352][215]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.06.42:352][215]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.06.42:352][215]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.06.42:352][215]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.06.42:352][215]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.06.42:352][215]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.06.42:352][215]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.06.42:352][215]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.06.42:352][215]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.06.42:363][215]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.06.42:365][215]LogInit: FAudioDevice initialized.
+[2020.03.03-14.06.42:426][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.06.42:427][215]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.06.42:435][215]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.06.42
+[2020.03.03-14.06.42:439][215]LogWorld: Bringing up level for play took: 0.009451
+[2020.03.03-14.06.42:439][215]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.03.03-14.06.42:446][215]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 0,393
+[2020.03.03-14.06.42:446][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.06.49:733][ 82]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.06.56:183][856]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.06.58:892][181]LogBlueprintUserMessages: [BP_SecondaryLightToggle_2] BP_SecondaryLightToggle
+[2020.03.03-14.06.58:900][182]LogBlueprintUserMessages: [BP_SecondaryLightToggle_2] BP_SecondaryLightToggle
+[2020.03.03-14.06.59:708][276]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.03-14.06.59:708][276]LogBlueprintUserMessages: [BP_SecondaryLightToggle_2] Hello
+[2020.03.03-14.07.03:158][690]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.07.15:592][182]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.07.15:598][182]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.07.15:617][182]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.07.15:617][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.07.15:617][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.07.15:617][182]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.07.15:632][182]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.07.15:636][182]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.07.15:636][182]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.07.15:637][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.07.15:640][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.07.15:640][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.07.15:644][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.07.15:672][182]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.07.15:679][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.03.03-14.07.15:693][183]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.03-14.07.25:175][283]LogActorFactory: Actor Factory created Cube
+[2020.03.03-14.07.25:587][332]LogActorFactory: Actor Factory created Cube
+[2020.03.03-14.07.45:831][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2020.03.03-14.07.46:700][839]Cmd: EDIT COPY
+[2020.03.03-14.07.46:936][867]Cmd: EDIT PASTE
+[2020.03.03-14.08.19:761][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2020.03.03-14.08.34:806][551]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.08.34:823][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.08.34:823][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.08.34:823][551]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:08:34)
+[2020.03.03-14.08.34:824][551]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.08.34:834][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010439s)
+[2020.03.03-14.08.34:835][551]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.08.34:835][551]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2020.03.03-14.08.34:835][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011586s)
+[2020.03.03-14.08.34:867][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.03.03-14.08.34:869][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.08.34:869][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.08.34:869][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.08.34:869][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.08.34:869][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.08.34:869][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.08.34:869][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.08.34:869][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.08.34:869][551]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.08.34:869][551]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.08.34:875][551]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.08.34:875][551]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.08.34:875][551]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.08.34:875][551]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.08.34:875][551]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.08.34:875][551]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.08.34:875][551]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.08.34:875][551]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.08.34:875][551]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.08.34:886][551]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.08.34:887][551]LogInit: FAudioDevice initialized.
+[2020.03.03-14.08.34:953][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.08.34:954][551]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.08.34:963][551]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.08.34
+[2020.03.03-14.08.34:967][551]LogWorld: Bringing up level for play took: 0.009248
+[2020.03.03-14.08.34:967][551]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.03.03-14.08.34:973][551]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 0,924
+[2020.03.03-14.08.34:973][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.08.35:485][607]LogBlueprintUserMessages: [BP_SecondaryLightToggle_2] BP_SecondaryLightToggle
+[2020.03.03-14.08.35:493][608]LogBlueprintUserMessages: [BP_SecondaryLightToggle_2] BP_SecondaryLightToggle
+[2020.03.03-14.08.35:569][617]LogBlueprintUserMessages: [BP_SecondaryLightToggle_2] BP_SecondaryLightToggle
+[2020.03.03-14.08.37:610][862]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.08.39:010][ 30]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.08.39:685][111]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.08.44:868][733]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.08.45:477][806]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.08.46:252][899]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.08.46:869][973]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.09.13:128][124]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.09.13:144][124]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.09.13:164][124]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.09.13:164][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.09.13:165][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.09.13:165][124]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.09.13:204][124]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.09.13:209][124]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.09.13:209][124]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.09.13:209][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.09.13:219][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.09.13:219][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.09.13:222][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.09.13:251][124]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.09.13:257][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.03.03-14.09.13:272][125]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.03.03-14.09.17:302][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2020.03.03-14.09.23:564][344]Cmd: MODE ROTGRID=0
+[2020.03.03-14.10.22:928][401]LogEditorViewport: Clicking on Actor (LMB): BP_SwitchableLight_2_C (BP_SwitchableLight_5)
+[2020.03.03-14.10.28:734][ 92]Cmd: TRANSACTION UNDO
+[2020.03.03-14.10.28:734][ 92]LogEditorTransaction: Undo Rotate Actors
+[2020.03.03-14.11.00:310][805]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.11.00:328][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.11.00:328][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.11.00:328][805]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:11:00)
+[2020.03.03-14.11.00:329][805]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.11.00:339][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010517s)
+[2020.03.03-14.11.00:340][805]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.11.00:340][805]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.03.03-14.11.00:340][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011518s)
+[2020.03.03-14.11.00:376][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.03.03-14.11.00:377][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.11.00:377][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.11.00:377][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.11.00:377][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.11.00:378][805]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.11.00:378][805]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.11.00:378][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.11.00:378][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.11.00:378][805]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.11.00:378][805]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.11.00:385][805]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.11.00:385][805]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.11.00:385][805]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.11.00:385][805]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.11.00:385][805]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.11.00:385][805]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.11.00:385][805]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.11.00:385][805]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.11.00:385][805]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.11.00:397][805]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.11.00:398][805]LogInit: FAudioDevice initialized.
+[2020.03.03-14.11.00:439][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.11.00:440][805]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.11.00:442][805]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.11.00
+[2020.03.03-14.11.00:443][805]LogWorld: Bringing up level for play took: 0.002917
+[2020.03.03-14.11.00:443][805]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.03.03-14.11.00:447][805]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 0,403
+[2020.03.03-14.11.00:447][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.11.03:815][204]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.04:691][309]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.05:673][427]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.11:234][ 91]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.12:100][195]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.14:833][523]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.14:975][540]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.17:042][788]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.17:059][790]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.17:159][802]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.17:334][823]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.17:342][824]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.17:375][828]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.18:658][982]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.18:750][993]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.18:917][ 13]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.19:459][ 78]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.20:258][174]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.20:258][174]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.20:425][194]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.20:792][238]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.21:892][370]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.21:909][372]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.22:075][392]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.22:476][440]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.23:525][566]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.23:676][584]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.24:959][738]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.25:117][757]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.25:967][859]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.25:976][860]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.26:076][872]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.27:559][ 50]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.28:967][219]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.28:967][219]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.29:142][240]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.30:259][374]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.31:692][546]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.31:842][564]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.32:134][599]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.32:134][599]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.32:134][599]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.32:142][600]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.32:458][638]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.33:342][744]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.34:142][840]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.35:967][ 59]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.38:517][365]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.38:518][365]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.38:643][380]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.40:259][574]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.40:584][613]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.40:893][650]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.43:017][905]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.43:168][923]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.44:567][ 91]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.44:717][109]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.45:151][161]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.46:309][300]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.11.51:759][954]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.11.51:992][982]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.12.21:727][547]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.12.23:634][776]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.12.39:659][699]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.12.39:667][700]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.12.39:951][734]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.12.43:493][159]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.12.44:509][281]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.12.45:076][349]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.13.38:709][782]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.13.41:617][131]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.13.43:759][388]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.13.43:767][388]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.13.43:787][388]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.13.43:787][388]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.13.43:788][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.13.43:788][388]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.13.43:822][388]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.13.43:826][388]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.13.43:826][388]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.13.43:826][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.13.43:836][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.13.43:837][388]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.13.43:841][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.13.43:868][388]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.13.43:874][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.03.03-14.13.43:889][389]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.03.03-14.13.48:982][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2020.03.03-14.13.49:320][ 16]Cmd: DELETE
+[2020.03.03-14.13.49:320][ 16]Cmd: ACTOR DELETE
+[2020.03.03-14.13.49:321][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-14.13.49:349][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.03.03-14.13.49:350][ 16]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.03-14.13.49:713][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2020.03.03-14.13.49:761][ 61]Cmd: DELETE
+[2020.03.03-14.13.49:761][ 61]Cmd: ACTOR DELETE
+[2020.03.03-14.13.49:762][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-14.13.49:790][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.03.03-14.13.49:791][ 61]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.03-14.13.50:260][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2020.03.03-14.13.50:297][118]Cmd: DELETE
+[2020.03.03-14.13.50:297][118]Cmd: ACTOR DELETE
+[2020.03.03-14.13.50:299][118]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-14.13.50:326][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.03.03-14.13.50:327][118]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.03-14.14.21:449][842]LogEditorViewport: Clicking on Actor (LMB): BP_SwitchableLight_2_C (BP_SwitchableLight_4)
+[2020.03.03-14.14.47:191][897]Cmd: TRANSACTION UNDO
+[2020.03.03-14.14.47:191][897]LogEditorTransaction: Undo Move Actors
+[2020.03.03-14.14.47:683][911]Cmd: TRANSACTION UNDO
+[2020.03.03-14.14.47:683][911]LogEditorTransaction: Undo Move Actors
+[2020.03.03-14.15.24:824][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.03.03-14.15.41:613][350]Cmd: DELETE
+[2020.03.03-14.15.41:613][350]Cmd: ACTOR DELETE
+[2020.03.03-14.15.41:615][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-14.15.41:647][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.03.03-14.15.41:648][350]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.03.03-14.16.29:849][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.03.03-14.16.30:052][ 79]LogSavePackage: Moving '../../../../../../Users/Joakim.Johansson/Documents/Unreal Projects/Shadow_ProjectZero/Saved/JockesLevel_Auto29C28112442D0A78A74985EB0DE44EE5B.tmp' to '../../../../../../Users/Joakim.Johansson/Documents/Unreal Projects/Shadow_ProjectZero/Saved/Autosaves/Game/ThirdPersonBP/Maps/JockesLevel_Auto2.umap'
+[2020.03.03-14.16.30:053][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/JockesLevel' took 0.232
+[2020.03.03-14.16.30:053][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2020.03.03-14.16.42:880][595]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.03.03-14.16.50:426][406]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.16.50:444][406]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.16.50:444][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.16.50:444][406]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:16:50)
+[2020.03.03-14.16.50:444][406]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.16.50:455][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011046s)
+[2020.03.03-14.16.50:456][406]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.16.50:457][406]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2020.03.03-14.16.50:457][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.012323s)
+[2020.03.03-14.16.50:490][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.03.03-14.16.50:491][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.16.50:491][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.16.50:491][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.16.50:491][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.16.50:491][406]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.16.50:491][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.16.50:491][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.16.50:491][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.16.50:492][406]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.16.50:492][406]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.16.50:499][406]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.16.50:499][406]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.16.50:499][406]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.16.50:499][406]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.16.50:499][406]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.16.50:499][406]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.16.50:499][406]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.16.50:499][406]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.16.50:499][406]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.16.50:511][406]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.16.50:512][406]LogInit: FAudioDevice initialized.
+[2020.03.03-14.16.50:544][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.16.50:544][406]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.16.50:549][406]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.16.50
+[2020.03.03-14.16.50:550][406]LogWorld: Bringing up level for play took: 0.004841
+[2020.03.03-14.16.50:551][406]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.03.03-14.16.50:554][406]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 0,518
+[2020.03.03-14.16.50:555][406]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.17.00:357][576]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.17.00:363][576]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.17.00:382][576]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.17.00:382][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.17.00:382][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.17.00:382][576]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.17.00:397][576]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.17.00:402][576]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.17.00:402][576]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.17.00:403][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.17.00:413][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.17.00:413][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.17.00:416][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.17.00:446][576]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.17.00:452][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.03.03-14.17.00:468][577]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.03.03-14.17.05:066][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.03.03-14.17.18:307][704]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.17.18:323][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.17.18:323][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.17.18:323][704]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:17:18)
+[2020.03.03-14.17.18:323][704]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.17.18:334][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010331s)
+[2020.03.03-14.17.18:335][704]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.17.18:335][704]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2020.03.03-14.17.18:335][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011349s)
+[2020.03.03-14.17.18:365][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.03-14.17.18:367][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.17.18:367][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.17.18:367][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.17.18:367][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.17.18:367][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.17.18:367][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.17.18:367][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.17.18:367][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.17.18:368][704]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.17.18:368][704]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.17.18:374][704]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.17.18:374][704]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.17.18:374][704]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.17.18:374][704]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.17.18:374][704]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.17.18:374][704]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.17.18:374][704]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.17.18:374][704]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.17.18:374][704]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.17.18:384][704]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.17.18:386][704]LogInit: FAudioDevice initialized.
+[2020.03.03-14.17.18:444][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.17.18:445][704]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.17.18:454][704]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.17.18
+[2020.03.03-14.17.18:457][704]LogWorld: Bringing up level for play took: 0.009405
+[2020.03.03-14.17.18:458][704]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.03.03-14.17.18:464][704]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 0,428
+[2020.03.03-14.17.18:464][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.18.06:928][511]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.18.06:942][511]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.18.06:961][511]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.18.06:961][511]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.18.06:962][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.18.06:962][511]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.18.06:976][511]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.18.06:981][511]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.18.06:981][511]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.18.06:982][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.18.06:988][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.18.06:988][511]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.18.06:992][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.18.07:020][511]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.18.07:026][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.03-14.18.07:039][512]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.03-14.19.08:666][889]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.19.08:685][889]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.19.08:685][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.19.08:685][889]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:19:08)
+[2020.03.03-14.19.08:685][889]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.19.08:696][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010779s)
+[2020.03.03-14.19.08:697][889]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.19.08:697][889]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2020.03.03-14.19.08:697][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011768s)
+[2020.03.03-14.19.08:732][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.03.03-14.19.08:734][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.19.08:734][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.19.08:734][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.19.08:734][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.19.08:734][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.19.08:734][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.19.08:734][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.19.08:734][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.19.08:735][889]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.19.08:735][889]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.19.08:741][889]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.19.08:741][889]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.19.08:741][889]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.19.08:741][889]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.19.08:741][889]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.19.08:741][889]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.19.08:741][889]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.19.08:741][889]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.19.08:741][889]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.19.08:752][889]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.19.08:753][889]LogInit: FAudioDevice initialized.
+[2020.03.03-14.19.08:813][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.19.08:813][889]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.19.08:816][889]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.19.08
+[2020.03.03-14.19.08:817][889]LogWorld: Bringing up level for play took: 0.002801
+[2020.03.03-14.19.08:817][889]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.03.03-14.19.08:820][889]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 0,786
+[2020.03.03-14.19.08:820][889]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.19.13:587][456]LogBlueprintUserMessages: [BP_SwitchableLight_2] light
+[2020.03.03-14.19.13:928][497]LogBlueprintUserMessages: [BP_SwitchableLight_2] light
+[2020.03.03-14.19.13:970][502]LogBlueprintUserMessages: [BP_SwitchableLight_2] light
+[2020.03.03-14.19.14:120][520]LogBlueprintUserMessages: [BP_SwitchableLight_2] light
+[2020.03.03-14.19.14:761][597]LogBlueprintUserMessages: [BP_SwitchableLight_2] light
+[2020.03.03-14.19.14:803][602]LogBlueprintUserMessages: [BP_SwitchableLight_2] light
+[2020.03.03-14.19.56:089][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.19.56:089][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.19.56:089][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.19.56:089][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.19.56:089][553]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.19.56:104][553]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.19.56:109][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.19.56:109][553]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.19.56:110][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.19.56:114][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.19.56:114][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.19.56:118][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.19.56:146][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.19.56:152][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.03.03-14.19.56:196][556]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.03.03-14.19.57:571][721]LogEditorViewport: Clicking on Actor (LMB): BP_SwitchableLight_C (BP_SwitchableLight)
+[2020.03.03-14.20.07:628][923]Cmd: DELETE
+[2020.03.03-14.20.07:628][923]Cmd: ACTOR DELETE
+[2020.03.03-14.20.07:630][923]LogEditorActor: Deleted Actor: BP_SwitchableLight_C
+[2020.03.03-14.20.07:661][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.03.03-14.20.07:662][923]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.03-14.20.34:565][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.03.03-14.20.57:400][829]Cmd: DELETE
+[2020.03.03-14.20.57:400][829]Cmd: ACTOR DELETE
+[2020.03.03-14.20.57:401][829]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-14.20.57:430][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.03.03-14.20.57:431][829]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.03.03-14.22.18:993][600]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.22.19:010][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.22.19:010][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.22.19:010][600]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:22:19)
+[2020.03.03-14.22.19:010][600]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.22.19:022][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010968s)
+[2020.03.03-14.22.19:022][600]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.22.19:023][600]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2020.03.03-14.22.19:023][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.012052s)
+[2020.03.03-14.22.19:052][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.03.03-14.22.19:054][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.22.19:054][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.22.19:054][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.22.19:054][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.22.19:054][600]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.22.19:054][600]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.22.19:054][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.22.19:054][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.22.19:054][600]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.22.19:054][600]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.22.19:060][600]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.22.19:060][600]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.22.19:060][600]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.22.19:060][600]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.22.19:061][600]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.22.19:061][600]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.22.19:061][600]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.22.19:061][600]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.22.19:061][600]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.22.19:072][600]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.22.19:074][600]LogInit: FAudioDevice initialized.
+[2020.03.03-14.22.19:138][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.22.19:139][600]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.22.19:148][600]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.22.19
+[2020.03.03-14.22.19:151][600]LogWorld: Bringing up level for play took: 0.009439
+[2020.03.03-14.22.19:151][600]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.03.03-14.22.19:158][600]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 1,126
+[2020.03.03-14.22.19:158][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.22.38:006][856]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.22.38:014][857]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.22.38:056][862]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.22.44:731][663]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.23.19:616][846]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.23.23:041][257]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.23.23:046][257]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.23.23:067][257]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.23.23:067][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.23.23:068][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.23.23:068][257]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.23.23:088][257]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.23.23:092][257]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.23.23:093][257]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.23.23:093][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.23.23:102][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.23.23:103][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.23.23:106][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.23.23:135][257]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.23.23:141][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.03.03-14.23.23:154][258]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.03.03-14.23.29:145][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.03.03-14.23.29:189][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.03.03-14.23.29:393][963]LogSavePackage: Moving '../../../../../../Users/Joakim.Johansson/Documents/Unreal Projects/Shadow_ProjectZero/Saved/JockesLevel21D8A5DE46BE7C69A03B5E9A5F4554F7.tmp' to '../../../../../../Users/Joakim.Johansson/Documents/Unreal Projects/Shadow_ProjectZero/Content/ThirdPersonBP/Maps/JockesLevel.umap'
+[2020.03.03-14.23.29:423][963]LogFileHelpers: Saving map 'JockesLevel' took 0.264
+[2020.03.03-14.23.29:433][963]AssetCheck: New page: Asset Save: JockesLevel
+[2020.03.03-14.23.29:433][963]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel
+[2020.03.03-14.24.20:157][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2020.03.03-14.24.29:441][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.03.03-14.24.54:715][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2020.03.03-14.25.57:290][627]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube22)
+[2020.03.03-14.25.58:455][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.03-14.25.59:306][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2020.03.03-14.25.59:956][923]Cmd: EDIT COPY
+[2020.03.03-14.26.00:209][953]Cmd: EDIT PASTE
+[2020.03.03-14.26.44:296][202]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.26.44:313][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.26.44:313][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.26.44:313][202]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:26:44)
+[2020.03.03-14.26.44:314][202]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.26.44:324][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010457s)
+[2020.03.03-14.26.44:325][202]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.26.44:325][202]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2020.03.03-14.26.44:325][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011567s)
+[2020.03.03-14.26.44:359][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.03.03-14.26.44:361][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.26.44:361][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.26.44:361][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.26.44:361][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.26.44:361][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.26.44:361][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.26.44:361][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.26.44:361][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.26.44:361][202]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.26.44:361][202]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.26.44:369][202]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.26.44:369][202]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.26.44:369][202]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.26.44:369][202]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.26.44:369][202]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.26.44:369][202]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.26.44:369][202]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.26.44:369][202]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.26.44:369][202]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.26.44:380][202]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.26.44:381][202]LogInit: FAudioDevice initialized.
+[2020.03.03-14.26.44:448][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.26.44:449][202]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.26.44:459][202]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.26.44
+[2020.03.03-14.26.44:462][202]LogWorld: Bringing up level for play took: 0.009617
+[2020.03.03-14.26.44:462][202]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.03.03-14.26.44:469][202]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 0,44
+[2020.03.03-14.26.44:469][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.27.16:842][ 81]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.27.24:542][  2]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.27.25:677][138]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.27.25:684][138]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.27.25:703][138]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.27.25:704][138]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.27.25:704][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.27.25:705][138]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.27.25:743][138]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.27.25:750][138]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.27.25:750][138]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.27.25:750][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.27.25:755][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.27.25:755][138]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.27.25:759][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.27.25:787][138]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.27.25:793][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.03.03-14.27.25:807][139]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.03.03-14.27.29:866][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2020.03.03-14.27.41:296][977]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.27.41:313][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.27.41:313][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.27.41:313][977]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:27:41)
+[2020.03.03-14.27.41:313][977]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.27.41:323][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010188s)
+[2020.03.03-14.27.41:323][977]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.27.41:324][977]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2020.03.03-14.27.41:324][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011283s)
+[2020.03.03-14.27.41:354][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.03.03-14.27.41:356][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.27.41:356][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.27.41:356][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.27.41:356][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.27.41:356][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.27.41:356][977]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.27.41:356][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.27.41:356][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.27.41:357][977]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.27.41:357][977]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.27.41:363][977]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.27.41:363][977]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.27.41:363][977]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.27.41:363][977]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.27.41:363][977]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.27.41:363][977]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.27.41:363][977]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.27.41:363][977]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.27.41:363][977]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.27.41:374][977]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.27.41:375][977]LogInit: FAudioDevice initialized.
+[2020.03.03-14.27.41:414][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.27.41:414][977]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.27.41:416][977]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.27.41
+[2020.03.03-14.27.41:417][977]LogWorld: Bringing up level for play took: 0.002675
+[2020.03.03-14.27.41:417][977]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.03.03-14.27.41:421][977]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel -0,607
+[2020.03.03-14.27.41:421][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.28.01:996][441]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.28.08:514][223]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.28.08:534][223]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.28.08:554][223]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.28.08:554][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.28.08:555][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.28.08:555][223]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.28.08:593][223]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.28.08:598][223]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.28.08:598][223]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.28.08:599][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.28.08:607][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.28.08:607][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.28.08:611][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.28.08:640][223]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.28.08:646][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.03.03-14.28.08:661][224]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.03.03-14.28.10:902][492]Cmd: TRANSACTION UNDO
+[2020.03.03-14.28.10:902][492]LogEditorTransaction: Undo Move Actors
+[2020.03.03-14.28.11:816][555]Cmd: TRANSACTION UNDO
+[2020.03.03-14.28.11:816][555]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.03-14.28.30:716][789]LogEditorViewport: Clicking on Actor (LMB): BP_SwitchableLight_2_C (BP_SwitchableLight_4)
+[2020.03.03-14.29.18:346][451]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.29.18:365][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.29.18:365][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.29.18:365][451]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:29:18)
+[2020.03.03-14.29.18:365][451]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.29.18:376][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010843s)
+[2020.03.03-14.29.18:377][451]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.29.18:377][451]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2020.03.03-14.29.18:377][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.012092s)
+[2020.03.03-14.29.18:412][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.03.03-14.29.18:414][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.29.18:414][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.29.18:414][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.29.18:414][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.29.18:414][451]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.29.18:414][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.29.18:414][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.29.18:414][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.29.18:414][451]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.29.18:414][451]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.29.18:420][451]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.29.18:420][451]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.29.18:420][451]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.29.18:420][451]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.29.18:420][451]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.29.18:420][451]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.29.18:420][451]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.29.18:420][451]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.29.18:420][451]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.29.18:431][451]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.29.18:432][451]LogInit: FAudioDevice initialized.
+[2020.03.03-14.29.18:476][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.29.18:476][451]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.29.18:478][451]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.29.18
+[2020.03.03-14.29.18:479][451]LogWorld: Bringing up level for play took: 0.002725
+[2020.03.03-14.29.18:480][451]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.03.03-14.29.18:483][451]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 0,456
+[2020.03.03-14.29.18:483][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.29.22:929][979]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.29.24:070][116]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.29.46:301][783]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.30.00:584][494]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.30.13:552][ 50]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.30.13:553][ 50]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.30.13:573][ 50]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.30.13:573][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.30.13:573][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.30.13:574][ 50]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.30.13:617][ 50]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.30.13:622][ 50]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.30.13:622][ 50]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.30.13:622][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.30.13:630][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.30.13:631][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.30.13:634][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.30.13:663][ 50]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.30.13:669][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.03.03-14.30.13:683][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.03.03-14.30.19:034][684]LogEditorViewport: Clicking on Actor (LMB): BP_SwitchableLight_2_C (BP_SwitchableLight_4)
+[2020.03.03-14.30.56:527][103]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.30.56:544][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.30.56:544][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.30.56:545][103]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:30:56)
+[2020.03.03-14.30.56:545][103]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.30.56:555][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010403s)
+[2020.03.03-14.30.56:556][103]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.30.56:556][103]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2020.03.03-14.30.56:556][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011555s)
+[2020.03.03-14.30.56:591][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.03.03-14.30.56:592][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.30.56:592][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.30.56:592][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.30.56:592][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.30.56:592][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.30.56:592][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.30.56:592][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.30.56:592][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.30.56:593][103]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.30.56:593][103]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.30.56:598][103]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.30.56:598][103]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.30.56:598][103]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.30.56:598][103]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.30.56:598][103]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.30.56:598][103]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.30.56:598][103]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.30.56:598][103]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.30.56:598][103]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.30.56:610][103]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.30.56:611][103]LogInit: FAudioDevice initialized.
+[2020.03.03-14.30.56:665][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.30.56:666][103]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.30.56:676][103]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.30.56
+[2020.03.03-14.30.56:679][103]LogWorld: Bringing up level for play took: 0.009853
+[2020.03.03-14.30.56:679][103]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.03.03-14.30.56:685][103]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 0,659
+[2020.03.03-14.30.56:686][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.31.01:322][653]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.31.02:997][854]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.31.08:239][483]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.31.08:365][498]LogBlueprintUserMessages: [BP_SwitchableLight_5] light
+[2020.03.03-14.31.44:207][796]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.31.52:583][801]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.31.52:601][801]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.31.52:632][801]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.31.52:632][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.31.52:633][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.31.52:633][801]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.31.52:672][801]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.31.52:677][801]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.31.52:678][801]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.31.52:678][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.31.52:686][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.31.52:686][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.31.52:690][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.31.52:718][801]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.31.52:724][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.03.03-14.31.52:738][802]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.03.03-14.31.58:085][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2020.03.03-14.31.58:466][472]Cmd: DELETE
+[2020.03.03-14.31.58:466][472]Cmd: ACTOR DELETE
+[2020.03.03-14.31.58:467][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-14.31.58:495][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.03.03-14.31.58:496][472]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.03-14.32.00:166][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2020.03.03-14.32.00:203][673]Cmd: DELETE
+[2020.03.03-14.32.00:203][673]Cmd: ACTOR DELETE
+[2020.03.03-14.32.00:205][673]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-14.32.00:232][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.03.03-14.32.00:233][673]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.03-14.32.01:128][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.03.03-14.32.07:142][484]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.32.07:158][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.32.07:158][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.32.07:158][484]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:32:07)
+[2020.03.03-14.32.07:158][484]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.32.07:169][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010162s)
+[2020.03.03-14.32.07:169][484]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.32.07:170][484]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2020.03.03-14.32.07:170][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011153s)
+[2020.03.03-14.32.07:201][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.03-14.32.07:202][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.32.07:202][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.32.07:202][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.32.07:202][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.32.07:202][484]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.32.07:202][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.32.07:202][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.32.07:202][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.32.07:203][484]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.32.07:203][484]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.32.07:208][484]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.32.07:208][484]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.32.07:208][484]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.32.07:208][484]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.32.07:208][484]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.32.07:208][484]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.32.07:208][484]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.32.07:208][484]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.32.07:208][484]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.32.07:219][484]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.32.07:220][484]LogInit: FAudioDevice initialized.
+[2020.03.03-14.32.07:279][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.32.07:280][484]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.32.07:289][484]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.32.07
+[2020.03.03-14.32.07:292][484]LogWorld: Bringing up level for play took: 0.009051
+[2020.03.03-14.32.07:292][484]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.03.03-14.32.07:298][484]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel -0,728
+[2020.03.03-14.32.07:298][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.32.19:919][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.32.19:919][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.32.19:919][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.32.19:919][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.32.19:919][993]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.32.19:933][993]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.32.19:938][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.32.19:938][993]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.32.19:938][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.32.19:947][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.32.19:947][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.32.19:950][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.32.19:978][993]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.32.19:984][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.03.03-14.32.20:019][995]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.03.03-14.32.28:362][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2020.03.03-14.32.37:101][ 34]Cmd: TRANSACTION UNDO
+[2020.03.03-14.32.37:101][ 34]LogEditorTransaction: Undo Rotate Actors
+[2020.03.03-14.32.38:333][133]LogEditorViewport: Clicking on Actor (LMB): BP_SwitchableLight_2_C (BP_SwitchableLight_4)
+[2020.03.03-14.33.20:535][123]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.33.20:553][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.33.20:553][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.33.20:553][123]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:33:20)
+[2020.03.03-14.33.20:553][123]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.33.20:564][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010886s)
+[2020.03.03-14.33.20:565][123]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.33.20:565][123]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2020.03.03-14.33.20:565][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011904s)
+[2020.03.03-14.33.20:600][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.03.03-14.33.20:602][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.33.20:602][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.33.20:602][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.33.20:602][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.33.20:602][123]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.33.20:602][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.33.20:602][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.33.20:602][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.33.20:603][123]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.33.20:603][123]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.33.20:608][123]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.33.20:608][123]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.33.20:608][123]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.33.20:608][123]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.33.20:608][123]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.33.20:608][123]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.33.20:608][123]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.33.20:608][123]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.33.20:608][123]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.33.20:619][123]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.33.20:620][123]LogInit: FAudioDevice initialized.
+[2020.03.03-14.33.20:681][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.33.20:682][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.33.20:691][123]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.33.20
+[2020.03.03-14.33.20:694][123]LogWorld: Bringing up level for play took: 0.009319
+[2020.03.03-14.33.20:695][123]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.03.03-14.33.20:701][123]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 0,676
+[2020.03.03-14.33.20:701][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.33.36:832][ 51]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.33.38:223][218]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.33.48:840][492]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.33.52:657][947]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.33.57:424][519]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.33.57:432][520]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.33.57:716][554]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.34.07:009][669]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.34.07:009][669]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.34.07:009][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.34.07:009][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.34.07:009][669]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.34.07:024][669]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.34.07:028][669]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.34.07:029][669]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.34.07:029][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.34.07:036][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.34.07:036][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.34.07:040][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.34.07:069][669]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.34.07:076][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.03-14.34.07:113][673]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.03.03-14.34.08:679][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2020.03.03-14.34.35:376][ 48]Cmd: TRANSACTION UNDO
+[2020.03.03-14.34.35:376][ 48]LogEditorTransaction: Undo Move Actors
+[2020.03.03-14.34.36:743][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.03.03-14.34.38:188][334]LogEditorViewport: Clicking on Actor (LMB): BP_SwitchableLight_2_C (BP_SwitchableLight_4)
+[2020.03.03-14.34.53:349][123]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.34.53:367][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.34.53:367][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.34.53:367][123]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:34:53)
+[2020.03.03-14.34.53:368][123]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.34.53:378][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010137s)
+[2020.03.03-14.34.53:379][123]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.34.53:379][123]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2020.03.03-14.34.53:379][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011142s)
+[2020.03.03-14.34.53:411][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.03.03-14.34.53:413][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.34.53:413][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.34.53:413][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.34.53:413][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.34.53:413][123]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.34.53:413][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.34.53:413][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.34.53:413][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.34.53:413][123]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.34.53:413][123]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.34.53:420][123]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.34.53:420][123]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.34.53:420][123]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.34.53:420][123]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.34.53:421][123]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.34.53:421][123]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.34.53:421][123]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.34.53:421][123]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.34.53:421][123]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.34.53:432][123]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.34.53:433][123]LogInit: FAudioDevice initialized.
+[2020.03.03-14.34.53:461][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.34.53:462][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.34.53:464][123]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.34.53
+[2020.03.03-14.34.53:465][123]LogWorld: Bringing up level for play took: 0.002827
+[2020.03.03-14.34.53:465][123]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.03.03-14.34.53:469][123]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel -0,556
+[2020.03.03-14.34.53:469][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.34.59:556][847]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.34.59:561][847]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.34.59:580][847]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.34.59:581][847]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.34.59:581][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.34.59:581][847]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.34.59:608][847]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.34.59:613][847]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.34.59:613][847]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.34.59:614][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.34.59:620][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.34.59:621][847]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.34.59:624][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.34.59:653][847]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.34.59:659][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.03.03-14.34.59:672][848]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.03.03-14.35.00:339][928]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2020.03.03-14.35.00:934][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2020.03.03-14.35.18:947][126]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.35.18:963][126]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.35.18:963][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.35.18:963][126]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:35:18)
+[2020.03.03-14.35.18:963][126]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.35.18:974][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010198s)
+[2020.03.03-14.35.18:974][126]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.35.18:975][126]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.03.03-14.35.18:975][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011194s)
+[2020.03.03-14.35.19:006][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.03-14.35.19:007][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.35.19:007][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.35.19:007][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.35.19:007][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.35.19:007][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.35.19:007][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.35.19:007][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.35.19:007][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.35.19:008][126]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.35.19:008][126]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.35.19:015][126]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.35.19:015][126]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.35.19:015][126]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.35.19:015][126]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.35.19:015][126]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.35.19:015][126]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.35.19:015][126]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.35.19:015][126]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.35.19:015][126]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.35.19:026][126]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.35.19:027][126]LogInit: FAudioDevice initialized.
+[2020.03.03-14.35.19:085][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.35.19:086][126]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.35.19:095][126]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.35.19
+[2020.03.03-14.35.19:099][126]LogWorld: Bringing up level for play took: 0.010617
+[2020.03.03-14.35.19:100][126]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.03.03-14.35.19:107][126]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel 1,082
+[2020.03.03-14.35.19:107][126]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.35.26:187][968]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.26:187][968]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.26:796][ 41]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.26:804][ 42]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.27:162][ 85]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.27:171][ 86]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.27:211][ 91]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.27:503][126]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.27:503][126]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.27:503][126]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.27:562][133]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.27:570][134]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.28:404][234]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.28:404][234]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.28:770][278]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.28:870][290]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.28:962][301]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.29:062][313]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.29:078][315]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.29:186][328]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.29:412][355]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.29:420][356]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.30:820][524]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.30:828][525]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.31:262][577]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.31:271][578]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.32:187][688]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.32:196][689]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.32:612][739]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.32:645][743]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.33:837][886]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.33:846][887]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.34:312][943]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.34:362][949]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.34:754][996]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.34:762][997]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.34:987][ 24]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.35.47:963][581]LogBlueprintUserMessages: [BP_SecondaryLightToggle_2] BP_SecondaryLightToggle
+[2020.03.03-14.35.47:971][582]LogBlueprintUserMessages: [BP_SecondaryLightToggle_2] BP_SecondaryLightToggle
+[2020.03.03-14.35.48:471][642]LogBlueprintUserMessages: [BP_SecondaryLightToggle_2] BP_SecondaryLightToggle
+[2020.03.03-14.35.49:596][777]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.08:131][998]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.08:131][998]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.08:988][101]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.09:155][121]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.09:605][175]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.09:605][175]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.09:613][176]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.09:764][194]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.10:080][232]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.10:080][232]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.10:413][272]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.15:205][847]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.16:922][ 53]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.17:105][ 75]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.17:538][127]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.17:538][127]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.17:547][128]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.17:697][146]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.18:181][204]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.18:355][225]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.18:931][294]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.19:113][316]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.19:672][383]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.19:856][405]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.36.20:264][454]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.36.20:270][454]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.36.20:290][454]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.36.20:290][454]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.36.20:291][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.36.20:291][454]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.36.20:329][454]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.36.20:334][454]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.36.20:334][454]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.36.20:335][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.36.20:343][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.36.20:343][454]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.36.20:347][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.36.20:377][454]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.36.20:383][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.03.03-14.36.20:397][455]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.03.03-14.36.31:075][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2020.03.03-14.36.55:316][527]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.03-14.36.55:332][527]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.36.55:332][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-14.36.55:332][527]PIE: New page: PIE session: JockesLevel (3 Mar 2020, 16:36:55)
+[2020.03.03-14.36.55:332][527]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.36.55:342][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010296s)
+[2020.03.03-14.36.55:343][527]LogAIModule: Creating AISystem for world JockesLevel
+[2020.03.03-14.36.55:343][527]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2020.03.03-14.36.55:343][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel (0.011394s)
+[2020.03.03-14.36.55:375][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.03-14.36.55:376][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-14.36.55:376][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-14.36.55:376][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-14.36.55:376][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-14.36.55:376][527]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-14.36.55:377][527]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-14.36.55:377][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-14.36.55:377][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-14.36.55:377][527]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-14.36.55:377][527]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-14.36.55:384][527]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-14.36.55:384][527]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.36.55:384][527]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-14.36.55:384][527]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-14.36.55:384][527]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-14.36.55:384][527]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-14.36.55:384][527]LogAudioMixer: Display: Channel Order:
+[2020.03.03-14.36.55:384][527]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-14.36.55:384][527]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-14.36.55:396][527]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2020.03.03-14.36.55:397][527]LogInit: FAudioDevice initialized.
+[2020.03.03-14.36.55:463][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.36.55:464][527]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.03-14.36.55:474][527]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel.JockesLevel up for play (max tick rate 0) at 2020.03.03-15.36.55
+[2020.03.03-14.36.55:477][527]LogWorld: Bringing up level for play took: 0.010333
+[2020.03.03-14.36.55:477][527]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.03.03-14.36.55:484][527]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel -0,54
+[2020.03.03-14.36.55:484][527]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.37.02:191][325]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.02:191][325]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.02:991][421]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.03:124][437]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.03:541][487]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.03:541][487]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.03:549][488]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.03:658][501]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.04:100][554]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.04:233][570]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.04:658][621]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.04:659][621]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.04:667][622]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.04:791][637]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.06:633][858]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.06:766][874]LogBlueprintUserMessages: [BP_SwitchableLight_4] light
+[2020.03.03-14.37.07:267][934]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.37.07:279][934]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.03-14.37.07:300][934]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.03-14.37.07:300][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.37.07:300][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-14.37.07:300][934]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_JockesLevel
+[2020.03.03-14.37.07:320][934]LogSlate: Window 'Shadow_ProjectZero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.03-14.37.07:324][934]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.37.07:324][934]LogWorld: UWorld::CleanupWorld for JockesLevel, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-14.37.07:325][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.37.07:331][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-14.37.07:331][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/JockesLevel.JockesLevel:PersistentLevel.JockesLevel'
+[2020.03.03-14.37.07:335][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-14.37.07:362][934]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-14.37.07:368][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.03-14.37.07:382][935]LogPlayLevel: Display: Destroying online subsystem :Context_35
